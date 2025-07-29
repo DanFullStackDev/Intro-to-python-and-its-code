@@ -1,4 +1,6 @@
 #scroll down to see the assignment code 
+#A simple Python program that interacts with the user, asking for their name and favorite color,
+# and then runs a quiz with multiple-choice questions.
 """name = input("Enter your name: ")
 favourite_color = input("Enter your favourite color: ")
 print(f"Hello, {name}! Your favourite color is {favourite_color}.")
