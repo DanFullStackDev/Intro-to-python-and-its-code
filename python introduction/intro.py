@@ -76,3 +76,4 @@ try:
     print(f"The result of {num1} {operator} {num2} is: {result}")
 except Exception as e:
     print(f"Error: {e}")
+print("Thank you for using the calculator!")
