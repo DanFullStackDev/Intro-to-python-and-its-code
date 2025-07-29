@@ -1,3 +1,4 @@
+#scroll down to see the assignment code
 """name = input("Enter your name: ")
 favourite_color = input("Enter your favourite color: ")
 print(f"Hello, {name}! Your favourite color is {favourite_color}.")
